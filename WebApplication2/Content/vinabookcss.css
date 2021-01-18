@@ -1,0 +1,16 @@
+﻿.vn-ts
+{
+    border-right:1px solid;
+    border-left:1px solid;
+    padding-left:15px;
+    padding-right:12px;
+}
+.d1 {
+    background-color: #F3F3F3;  
+    color: #66645C;
+    font-size: 13px;
+}
+#vn-content-1
+{
+   border:1px solid red;
+}

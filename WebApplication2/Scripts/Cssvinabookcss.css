@@ -1,0 +1,408 @@
+﻿.vn-ts {
+    border-right: 1px solid;
+    border-left: 1px solid;
+    padding-left: 15px;
+    padding-right: 12px;
+}
+
+.d1 {
+    background-color: #F3F3F3;
+    color: #66645C;
+    font-size: 13px;
+}
+
+.vn-mpgh-content {
+    display: none;
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 300px;
+    z-index: ;
+    position:fixed;
+    background-color:white
+}
+.vn-ts-content {
+    display: none;
+    margin-left: 13%;
+    border: 1px solid black;
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 300px;
+    z-index: 100;
+    position: fixed;
+    background-color: white
+}
+.vn-read-content {
+    display: none;
+    margin-left: 26%;
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 300px;
+    z-index: 100;
+    position: fixed;
+    background-color: white
+}
+.show {
+    display: block;
+    z-index: 100;
+}
+.input-group {
+    margin-left: 30%;
+    border: none;
+    background: transparent;
+    width: 100%;
+    padding: 5px 100px 5px 50px;
+    outline: none;
+    font-size: 14px;
+    box-shadow: none;
+    height: 34px;
+}
+.Content-main {
+    position: fixed;
+}
+.input-group {
+    position: absolute;
+    top: 13%;
+    left: 65%;
+    width: 280%;
+}
+.icon-gio-hang {
+    position: absolute;
+    left: 357%;
+    top: 13%;
+    width: 50px;
+    padding-top: 1%;
+    height: 46px;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #0b703d;
+    color: #0b703d;
+    font-size: 26px;
+}
+.dangki-dangnhap {
+    position: absolute;
+    left: 390%;
+    top: 45%;
+    font-size: 14px;
+    width: 80%;
+}
+.dangnhap {
+    border-right: 1px solid black;
+    padding-right: 2%;
+}
+.dangki {
+    padding-left: 5%;
+}
+.bar1 {
+    width: 30px;
+    height: 2.5px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: white;
+    margin: 6px 0;
+}
+.bar2 {
+    width: 30px;
+    height: 2.5px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: white;
+    margin: 6px 0;
+}
+.bar3 {
+    width: 21px;
+    height: 2.5px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: white;
+    margin: 6px 0;
+}
+.d4 {
+    position: relative;
+    top: 60px;
+    background-color: green;
+    height: 40px;
+}
+.icon-menu {
+    position: absolute;
+    top: 5px;
+}
+.content-danhmuc {
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    left: 270px;
+    top: 6px;
+}
+.dorpdown 
+{
+position: absolute;
+font-size: 30px;
+left: 415px;
+top: -2px;
+color: white;
+}
+.conten-phone {
+    position: absolute;
+    left: 70%;
+    top: 20%;
+    color: white;
+    font-size: 14px;
+    border-right: 2px solid white;
+    padding-right: 1%
+}
+.conten-hotro {
+    position: absolute;
+    left: 80%;
+    color: white;
+    font-size: 14px;
+    top: 20%;
+    padding-left: 1%;
+}
+.dropdown-menu {
+    display: block;
+    position: relative;
+    top: 64px;
+    left: -1px;
+    height: -13px;
+    width: 247px;
+    font-size: 14px;
+}
+.d5
+{
+    position:relative;
+    z-index:20;
+}
+.d3 {
+    height: 9%;
+    position: fixed;
+    width: 100%;
+    z-index: 30;
+    background-color: white;
+}
+    .scrollmouse 
+    {
+        top: 0%;
+        height: 9%;
+    }
+.banner-all {
+    width: 100%;
+    position: absolute;
+    top: 60px;
+    left: -4%;
+}
+#picture-content
+{
+    position: absolute;
+    top: 0px;
+    left: 607px;
+}
+.big-banner
+{
+    display:flex;
+}
+.small-banner {
+    position: absolute;
+    display: flex;
+    top: 100%;
+    left: 2%;
+    width: 100%;
+}
+.mainbox-title {
+    position: absolute;
+    top: 110%;
+}
+.book-tac-gia {
+    width: 863px;
+    background-color: aliceblue;
+    border: 1px solid lightgray;
+    margin-top: -5%;
+}
+
+.text-info-tac-gia {
+    position: absolute;
+    top: 6%;
+    left: 28%;
+    text-align: left;
+    font-size: 15px;
+}
+.title-tac-gia {
+    font-size: 20px;
+    color: green;
+    position: absolute;
+    top: -5%;
+    left: 28%;
+    border-bottom: 1px solid black;
+    padding-bottom: 7px;
+}
+.col-md-4
+{
+    display:flex;
+}
+.mainbox-sachbanchay {
+    position: absolute;
+    top: 180%;
+    width: 863px;
+   
+}
+.content-picture-main {
+}
+.mainbox-sachbanchay-content {
+    margin-top: 2%;
+}
+#col-content {
+    display: flex;
+}
+.card-body 
+{
+    position: absolute;
+    top: 0%;
+    left: 37%;
+}
+.key-money
+{
+    margin-top:16%;
+    border-top:1px dashed black;
+    text-align:right;
+    color:red;
+}
+#product-title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 147px;
+    display: block;
+}
+.mainbox-sachhay {
+    position: absolute;
+    top: 255%;
+    width: 863px;
+    height: 340px;
+    background: #fb8b41;
+}
+.content-mainbox-sachhay{
+    color:white;
+    margin-top: -30%;
+    margin-left: 33%;
+}
+.bill-sachhay {
+    position: absolute;
+    top: 88%;
+    left:50%;
+    font-size: 140%;
+}
+.mainbox-sachkynang {
+    position: absolute;
+    top: 310%;
+    width: 863px;
+    height: 340px;
+}
+.site-footer {
+    background-color: #26272b;
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: white;
+}
+
+    .site-footer hr {
+        border-top-color: white;
+        opacity: 0.5
+    }
+
+        .site-footer hr.small {
+            margin: 20px 0
+        }
+
+    .site-footer h6 {
+        color: white;
+        font-size: 16px;
+        text-transform: uppercase;
+        margin-top: 5px;
+        letter-spacing: 2px
+    }
+
+    .site-footer a {
+        color: white;
+    }
+
+        .site-footer a:hover {
+            color: #3366cc;
+            text-decoration: none;
+        }
+
+.footer-links {
+    padding-left: 0;
+    list-style: none
+}
+
+    .footer-links li {
+        display: block
+    }
+
+    .footer-links a {
+        color: white
+    }
+
+        .footer-links a:active, .footer-links a:focus, .footer-links a:hover {
+            color: #3366cc;
+            text-decoration: none;
+        }
+
+    .footer-links.inline li {
+        display: inline-block
+    }
+
+.site-footer .social-icons {
+    text-align: right
+}
+
+    .site-footer .social-icons a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-left: 6px;
+        margin-right: 0;
+        border-radius: 100%;
+        background-color: #33353d
+    }
+
+.copyright-text {
+    margin: 0
+}
+
+@media (max-width:991px) {
+    .site-footer [class^=col-] {
+        margin-bottom: 30px
+    }
+}
+
+@media (max-width:767px) {
+    .site-footer {
+        padding-bottom: 0
+    }
+
+        .site-footer .copyright-text, .site-footer .social-icons {
+            text-align: center
+        }
+}
+.site-footer
+{
+   position: absolute;
+    top: 385%;
+    width: 100%;
+    background-color:green;
+    color:white;
+}
+.d7
+{
+    position:absolute;
+    width:302px;
+    height:100%;
+    left:70%;
+}
